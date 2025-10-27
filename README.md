@@ -1,1 +1,1 @@
-<h2>Jogo do número secreto</h2>
+<h1 align="center"> Jogo do Número Secreto</h1>
